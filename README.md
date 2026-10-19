@@ -1,21 +1,15 @@
-# Nome do Sistema: o que ele faz, em uma frase
-
-> **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
+# Dracarys: é um sistema de gerenciamento de dragões, onde cada usuário pode cadastrar e acompanhar seus própios dragões.
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** Ellis Maria Sandano de Moura.
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** Lucerys, dono de dragão, que solicita seus dragões pra missões especificas.
 
 ## Apresentação do projeto
 
-<!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
-     Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
-
-_Escreva aqui a apresentação do projeto._
-
+O Dracarys é um sistema feito para organizar o dia a dia e o trabalho dos dragões em um só lugar. Ele junta toda a rotina dos bichos — como o controle da comida, os remédios, os treinos e as missões que eles precisam fazer. A ideia é sumir com as anotações espalhadas e perdidas, trocando tudo por uma base de dados segura que garante que a situação real e o passado de cada dragão fiquem fáceis de consultar a qualquer hora.
 ## Documento do projeto
 
 A numeração é a do modelo de trabalho do IFPR, a mesma dos trabalhos de Projeto e Desenvolvimento de Sistemas. Quando uma seção ficar pronta, troque o ⬜ por ✅.
