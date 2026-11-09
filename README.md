@@ -1,15 +1,15 @@
-# Dracarys: é um sistema de gerenciamento de dragões, onde cada usuário pode cadastrar e acompanhar seus própios dragões.
+# Dracarys: Sistema de Prontidão Operacional de Aves de Rapina
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
 **Autoria:** Ellis Maria Sandano de Moura.
 
-**Cliente:** Lucerys, dono de dragão, que solicita seus dragões pra missões especificas.
+**Cliente:** Naty, Supervisora de Operações de Manejo de Fauna, que solicita e escala as aves para missões específicas de segurança aeroportuária.
 
 ## Apresentação do projeto
 
-O Dracarys é um sistema feito para organizar o dia a dia e o trabalho dos dragões em um só lugar. Ele junta toda a rotina dos bichos — como o controle da comida, os remédios, os treinos e as missões que eles precisam fazer. A ideia é sumir com as anotações espalhadas e perdidas, trocando tudo por uma base de dados segura que garante que a situação real e o passado de cada dragão fiquem fáceis de consultar a qualquer hora.
+O Dracarys é um sistema feito para organizar o dia a dia e o trabalho das aves de rapina em um só lugar. Ele junta toda a rotina dos animais — como o controle rigoroso da comida e pesagem matinal, os remédios, os treinos de voo livre e as missões de afugentamento de pragas que eles precisam fazer nos aeroportos. A ideia é sumir com as anotações espalhadas e perdidas em pranchetas, trocando tudo por uma base de dados segura que garante que a situação real e o histórico de cada ave fiquem fáceis de consultar a qualquer hora.
 ## Documento do projeto
 
 A numeração é a do modelo de trabalho do IFPR, a mesma dos trabalhos de Projeto e Desenvolvimento de Sistemas. Quando uma seção ficar pronta, troque o ⬜ por ✅.
